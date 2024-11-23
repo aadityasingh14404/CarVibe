@@ -2,7 +2,7 @@
 
 I'm thrilled to introduce **CarVibe** – a vibrant, animated car showcase that brings the latest car models to life with a mix of **stunning animations** and **interactive features**. 🚘💥 Using **HTML, CSS, and JavaScript**, I've crafted a project that takes users on an immersive journey, blending sleek design with smooth, eye-catching transitions.
 
-🔗 Live project here:
+🔗 Live project here: aadityasingh14404.github.io/CarVibe/
 
 # 🌟 Key Highlights of CarVibe:
 - **Interactive Elements** 🎛️: Engage directly with every model, bringing a realistic, hands-on feel to each display.
